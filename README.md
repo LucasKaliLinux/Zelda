@@ -1,9 +1,18 @@
 # Zelda
-O projeto que desenvolvi em Java é um jogo inspirado na franquia Zelda. Utilizando sprites e músicas dos jogos antigos da Nintendo, o jogo permite explorar um mundo aberto e enfrentar inimigos em combates em tempo real.
 
-É importante destacar que o jogo foi criado com o objetivo de demonstrar habilidades de programação e não para fins comerciais. Por essa razão, a utilização de sprites e músicas da franquia Zelda é limitada a uma finalidade educacional e não deve ser utilizada para fins lucrativos. Vale ressaltar que este projeto não possui qualquer relação oficial com a Nintendo e a empresa não possui nenhum envolvimento em seu desenvolvimento ou distribuição.
+O projeto desenvolvido em Java é um jogo inspirado na franquia Zelda. Utilizando sprites e músicas dos jogos antigos da Nintendo, o jogo permite explorar um mundo aberto e enfrentar inimigos em combates em tempo real.
 
-O projeto foi desenvolvido integralmente em Java e utiliza bibliotecas padrões disponibilizadas pelo próprio Java. As sprites utilizadas foram baixadas do site https://www.spriters-resource.com/nes/legendofzelda/. Créditos aos sprites criados por *Mister Mike.*
+## Objetivo
 
-Atualmente, o jogo possui apenas 4 níveis e apresenta alguns bugs. No entanto, como mencionei anteriormente, este projeto foi criado exclusivamente para fins educacionais e, portanto, pode ser aprimorado ao longo do tempo. Principalmente no seu codigo e alguns sistemas que eu não gostei do jeito que foi programado, portanto pretendo refatora um pouco o codigo no futuro!
+O objetivo deste projeto é demonstrar habilidades de programação e desenvolvimento de jogos, não sendo destinado para fins comerciais. A utilização de sprites e músicas da franquia Zelda é limitada a uma finalidade educacional e não deve ser utilizada para fins lucrativos.
 
+## Funcionalidades
+
+- **Exploração do Mundo Aberto**: O jogador pode explorar um vasto mundo aberto, descobrindo novas áreas, itens e desafios.
+- **Combates em Tempo Real**: Enfrente inimigos em combates emocionantes em tempo real, utilizando armas e habilidades.
+- **Utilização de Sprites e Músicas Originais**: O jogo utiliza sprites e músicas dos jogos clássicos da franquia Zelda, proporcionando uma experiência nostálgica aos fãs.
+
+## Créditos
+
+- Sprites: Os sprites utilizados foram baixados do site [Sprite Resource](https://www.spriters-resource.com/nes/legendofzelda/). Créditos aos sprites criados por *Mister Mike*.
+- Músicas: As músicas utilizadas são dos jogos originais da franquia Zelda, desenvolvidos pela Nintendo.
